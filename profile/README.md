@@ -16,6 +16,7 @@
 - Лекция 3 – Инструменты работы с данными в .NET
     - [Слайды](lectures/3-data-tools.pdf)
     - [Текст про миграции](lectures/3-data-tools:migrations.md)
+- [Лекция 4 – ASP.NET](lectures/4-asp-net.pdf)
 
 ## Лабораторные
 
