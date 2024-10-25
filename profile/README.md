@@ -15,7 +15,7 @@
 - [Лекция 2 – Основы .NET (2)](lectures/2-dotnet-basics.pdf)
 - Лекция 3 – Инструменты работы с данными в .NET
     - [Слайды](lectures/3-data-tools.pdf)
-    - [Текст про миграции](lectures/3-data-tools:migrations.md)
+    - [Текст про миграции](lectures/3-data-tools-migrations.md)
 - [Лекция 4 – ASP.NET](lectures/4-asp-net.pdf)
 - [Лекция 5 – Явное межсервисное взаимодействие](lectures/5-explicit-service-communication.pdf)
 
