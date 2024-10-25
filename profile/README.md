@@ -17,6 +17,7 @@
     - [Слайды](lectures/3-data-tools.pdf)
     - [Текст про миграции](lectures/3-data-tools:migrations.md)
 - [Лекция 4 – ASP.NET](lectures/4-asp-net.pdf)
+- [Лекция 5 – Явное межсервисное взаимодействие](lectures/5-explicit-service-communication.pdf)
 
 ## Лабораторные
 
