@@ -18,6 +18,8 @@
     - [Текст про миграции](lectures/3-data-tools-migrations.md)
 - [Лекция 4 – ASP.NET](lectures/4-asp-net.pdf)
 - [Лекция 5 – Явное межсервисное взаимодействие](lectures/5-explicit-service-communication.pdf)
+- [Лекция 6 – Реактивное межсервисное взаимодействие](lectures/6-reactive-service-communication.pdf)
+- [Лекция 7 – Kafka и .NET](lectures/7-kafka.pdf)
 
 ## Лабораторные
 
